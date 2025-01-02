@@ -1,6 +1,5 @@
 ## Code for SATrans
 
-The source code for our paper "Scenario-Adaptive Feature Interaction for Click-Through Rate Prediction" (accepted by KDD2023 Applied Science Track).
 The preprocessed dataset can be downloaded from [link](https://drive.google.com/file/d/1PEQNOQqO3yTwU9WcdmeIZyfV7ViiemS9/view?usp=sharing).
 
 
