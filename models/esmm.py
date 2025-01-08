@@ -1,11 +1,4 @@
-# -*- coding:utf-8 -*-
-"""
-Author:
-    zanshuxun, zanshuxun@aliyun.com
 
-Reference:
-    [1] Ma X, Zhao L, Huang G, et al. Entire space multi-task model: An effective approach for estimating post-click conversion rate[C]//The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval. 2018.(https://dl.acm.org/doi/10.1145/3209978.3210104)
-"""
 import torch
 import torch.nn as nn
 
