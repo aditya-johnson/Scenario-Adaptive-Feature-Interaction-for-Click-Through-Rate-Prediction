@@ -1,11 +1,3 @@
-# -*- coding:utf-8 -*-
-"""
-Author:
-    Wutong Zhang
-Reference:
-    [1] Huang T, Zhang Z, Zhang J. FiBiNET: Combining Feature Importance and Bilinear feature Interaction for Click-Through Rate Prediction[J]. arXiv preprint arXiv:1905.09433, 2019.
-"""
-
 import torch
 import torch.nn as nn
 
