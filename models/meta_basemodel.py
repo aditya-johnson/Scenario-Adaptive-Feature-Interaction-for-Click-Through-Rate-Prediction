@@ -1,11 +1,3 @@
-# -*- coding:utf-8 -*-
-"""
-
-Author:
-    Weichen Shen,weichenswc@163.com
-    zanshuxun, zanshuxun@aliyun.com
-
-"""
 from __future__ import print_function
 
 import time
