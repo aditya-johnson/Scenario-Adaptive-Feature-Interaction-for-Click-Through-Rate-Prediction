@@ -1,11 +1,3 @@
-# -*- coding:utf-8 -*-
-"""
-Author:
-    zanshuxun, zanshuxun@aliyun.com
-
-Reference:
-    [1] Ruder S. An overview of multi-task learning in deep neural networks[J]. arXiv preprint arXiv:1706.05098, 2017.(https://arxiv.org/pdf/1706.05098.pdf)
-"""
 import torch
 import torch.nn as nn
 
